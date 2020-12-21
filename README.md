@@ -1,0 +1,2 @@
+# Rizki
+Just another repository
